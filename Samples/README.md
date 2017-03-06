@@ -1,1 +1,1 @@
-Output for same sample images.
+Output for some sample images.
